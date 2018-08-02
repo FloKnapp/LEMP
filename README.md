@@ -7,16 +7,16 @@ Minimal docker image based on alpine linux with preconfigured NGINX 1.12 and PHP
 ### Detailed List of installed Packages
 - openrc
 - curl
-- php7
-- php7-fpm
-- php7-opcache
+- php7 (7.1.17)
+- php7-fpm (7.1.17)
+- php7-opcache (7.1.17)
 - php7-mbstring
 - php7-xsl
 - php7-pdo
 - php7-mysqli
 - php7-json
 - php7-curl
-- nginx
+- nginx 1.12
 
 ### Set own configuration files
 
